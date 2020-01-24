@@ -99,5 +99,8 @@ footer>div>div{
     #containersobre img {
         width: 70%;
     }
-
+    #containerimg #imgsap img {
+        width: 95vw;
+        height: 35vh;
+    }
 }
