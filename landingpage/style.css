@@ -103,4 +103,9 @@ footer>div>div{
         width: 95vw;
         height: 35vh;
     }
+    footer div div a img   {
+        width: 8vw;
+        height: 8vw;
+    }
+
 }
